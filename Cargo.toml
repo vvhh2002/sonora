@@ -35,7 +35,7 @@ derive_more = { version = "2", features = ["debug"] }
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 bytemuck = { version = "1", features = ["derive"] }
-proptest = "1.9"
+proptest = "1.11"
 test-strategy = "0.4"
 criterion = { version = "0.8", features = ["html_reports"] }
 anyhow = "1"
